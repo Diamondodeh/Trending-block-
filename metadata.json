@@ -1,0 +1,12 @@
+{
+  "name": "TR3NDING BLOCK",
+  "short_name": "TR3NDING",
+  "description": "Luxury 4K streaming and high-speed downloads platform.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#D4AF37",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

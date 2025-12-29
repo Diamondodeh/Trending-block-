@@ -1,0 +1,4 @@
+
+# TR3NDING BLOCK Official Ads Authorization
+# REPLACE the ca-pub ID below with your own before uploading
+google.com, ca-pub-0000000000000000, DIRECT, f08c47fec0942fa0
